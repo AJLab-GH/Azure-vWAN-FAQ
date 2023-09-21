@@ -35,6 +35,12 @@ Copy the Managed application **Id**, in addition to the **Managed Resource Group
 
 ![ManagedApplicationProperties](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png)
 
+Copy the **Network Virtual Appliance** Name.
+
+> Customer Resource Group > Virtual WAN -> Virtual Hub -> Network Virtual Appliance
+
+![NVAName](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/NVA-Name.png)
+
 ### 2. Access Microsoft's Support
 
 Navigate to the Azure Portal's Help + support section. Once there, opt to create a new service request.
