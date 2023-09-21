@@ -29,7 +29,9 @@ If you find yourself in this situation, fret not. Here’s a step-by-step guide 
 
 Gather the necessary details about your Azure vWAN and NVA deployment. This helps Microsoft’s team locate and troubleshoot your specific resource faster.
 
-In your **Customer resouce group** locate and click your **Managed application** resource. Under settings, click on the **Properties** menu and copy the Managed application **Id**, in addition to the **Managed Resource Group Id**.
+Copy the Managed application **Id**, in addition to the **Managed Resource Group Id**.
+
+> Customer Resource Group > Managed Application > Properties
 
 ![ManagedApplicationProperties](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png)
 
