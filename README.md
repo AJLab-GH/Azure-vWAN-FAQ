@@ -55,7 +55,7 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 
 ## Contacting Fortinet
 
-Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com) with the Azure Service Request number you obtained in the previous Step, along with any other pertinent information.
+Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com) with the Azure Service Request number you obtained in the previous step, along with any other pertinent information.
 
 ## Conclusion
 
