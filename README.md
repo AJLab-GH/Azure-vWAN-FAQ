@@ -4,7 +4,7 @@ When deploying a FortiGate Network Virtual Appliance (NVA) into a Virtual WAN hu
 
 ## Understanding the Scenario
 
-When you execute an "exec shutdown", you send a guest OS shutdown signal to Azure. Due to the managed nature of this deployment, once the NVA is shut down, there's no direct method to power it back on using the Azure Portal or API.
+When you invoke the `exec shutdown` command, it transmits a signal to gracefully shut down the guest operating system within the Azure infrastructure. Given the architecture of this managed deployment, once the Network Virtual Appliance (NVA) is powered off, there isn't a straightforward mechanism to restart it through the Azure Portal or Azure REST API.
 
 ## Understanding the Resource Groups
 
