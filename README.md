@@ -45,15 +45,15 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 - **Problem Type:** Opt for "Networking" and then "Virtual WAN" from the dropdown.
 - **Description:** Clearly state that you've initiated a shutdown on the managed NVA and require assistance to restart it.
 
-## Emailing the Vendor
+## Emailing Fortinet
 
-Once you've completed the aforementioned steps, it’s essential to keep your vendor in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com).
+Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com).
 
-The specific details required by the vendor can be located by navigating as directed:
+The specific details required to contact the vendor can be located by navigating as directed:
 
-> Navigate here > Navigate there > Click here
+> Customer Resource Group > Managed Application > Properties
 
-![Insert Screenshot Here](URL_of_the_screenshot)
+![CxSupportInformation](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN_Support_contact.png)
 
 ## Conclusion
 
