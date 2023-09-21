@@ -49,9 +49,9 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 
 ## Emailing Fortinet
 
-Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com).
+Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com) with the Service Request Information from the Azure Service Request you opened in the previous Step.
 
-The specific details required to contact the vendor can be located by navigating as directed:
+The specific details required to contact the Fortinet can be located by navigating as directed:
 
 > Customer Resource Group > Managed Application > Properties
 
