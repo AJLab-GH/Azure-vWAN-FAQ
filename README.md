@@ -12,7 +12,7 @@ Upon deployment, two primary resource groups are established within a customer's
 
 - **Customer resource group**: Serves as a placeholder for the managed application. Here, partners have the flexibility to define customer-specific attributes.
 
-- **Managed resource group**: This group is more stringent. Overseen by the managed application's publisher, it  hosts the `FortiGate NVA` resources. Direct modifications by customers are disallowed in this zone.
+- **Managed resource group**: This group is more stringent. Overseen by the managed application's publisher, it  hosts the **FortiGate NVA** resources. Direct modifications by customers are disallowed in this zone.
 
 ## Navigating Permissions
 
@@ -53,15 +53,9 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 - **Problem Type:** Opt for "Networking" and then "Virtual WAN" from the dropdown.
 - **Description:** Clearly state that you've initiated a shutdown on the managed NVA and require assistance to restart it.
 
-## Emailing Fortinet
+## Contacting Fortinet
 
-Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com) with the Azure Service Request number you obtained in the previous Step.
-
-The specific details required to contact the Fortinet can be located by navigating as directed:
-
-> Customer Resource Group > Managed Application > Properties
-
-![CxSupportInformation](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN_Support_contact.png)
+Once you've completed the aforementioned steps, it’s essential to keep Fortinet in the loop. Send an email to: [azurevwan@fortinet.com](mailto:azurevwan@fortinet.com) with the Azure Service Request number you obtained in the previous Step, along with any other pertinent information.
 
 ## Conclusion
 
