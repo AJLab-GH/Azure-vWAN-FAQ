@@ -6,6 +6,14 @@ When deploying a FortiGate Network Virtual Appliance (NVA) into a Virtual WAN hu
 
 When you invoke the `exec shutdown` command, it transmits a signal to gracefully shut down the guest operating system within the Azure infrastructure. Given the architecture of this managed deployment, once the Network Virtual Appliance (NVA) is powered off, there isn't a straightforward mechanism to restart it through the Azure Portal or Azure REST API.
 
+If you must power-cycle your virtual machine, it is recommended you send a `restart` signal. In this case the guest operating system is notified to restart. The VM goes through its shutdown procedures and then immediately starts up again without requiring manual intervention.
+
+The FortiOS CLI Syntax for this operation is:
+
+```
+execute reboot
+```
+
 ## Understanding the Resource Groups
 
 Upon deployment, two primary resource groups are established within a customer's subscription:
