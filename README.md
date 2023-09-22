@@ -58,7 +58,7 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 
 - **Issue Type:** Select "Technical".
 - **Subscription:** Choose the Azure subscription associated with your vWAN NVA deployment.
-- **Resource:** Managed Application [**Id**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png), [**Managed Resource Group iD**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png), and affected [**NVA Instance**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/NVAInstanceInfo.png) Name.
+- **Resource:** Managed Application: [**Id**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png), [**Managed Resource Group iD**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png), and affected [**NVA Instance**](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/NVAInstanceInfo.png) Name.
 - **Problem Type:** Opt for "Networking" and then "Virtual WAN" from the dropdown.
 - **Description:** Clearly state that you've initiated a shutdown on the managed NVA and require assistance to restart it.
 
