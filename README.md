@@ -43,7 +43,7 @@ Copy the Managed application **Id**, in addition to the **Managed Resource Group
 
 ![ManagedApplicationProperties](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/vWAN-ID-Screenshot.png)
 
-Copy the **Network Virtual Appliance** Name.
+Copy the **NVA Instance** Name.
 
 > Customer Resource Group > Virtual WAN -> Virtual Hub -> Network Virtual Appliance > Click here
 
