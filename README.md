@@ -45,9 +45,10 @@ Copy the Managed application **Id**, in addition to the **Managed Resource Group
 
 Copy the **Network Virtual Appliance** Name.
 
-> Customer Resource Group > Virtual WAN -> Virtual Hub -> Network Virtual Appliance
+> Customer Resource Group > Virtual WAN -> Virtual Hub -> Network Virtual Appliance > Click here
 
-![NVAName](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/NVA-Name.png)
+![NVAName](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/InstanceInfo.png)
+![NVAInstanceName](https://raw.githubusercontent.com/AJLab-GH/Azure-vWAN-FAQ/main/Images/NVAInstanceInfo.png)
 
 ### 2. Access Microsoft's Support
 
