@@ -58,7 +58,7 @@ Navigate to the Azure Portal's Help + support section. Once there, opt to create
 
 - **Issue Type:** Select "Technical".
 - **Subscription:** Choose the Azure subscription associated with your vWAN NVA deployment.
-- **Resource:** Even if you can’t directly access the NVA, providing its name or any related resources can be helpful.
+- **Resource:** Managed Application **Id**, **Managed Resource Group Id**, and affected **NVA Instance** Name.
 - **Problem Type:** Opt for "Networking" and then "Virtual WAN" from the dropdown.
 - **Description:** Clearly state that you've initiated a shutdown on the managed NVA and require assistance to restart it.
 
